@@ -1,0 +1,11 @@
+C:\code\homework\CWEB1112\modularzation\modularzation_activity\bin\HPD\Debug\netcoreapp3.0\modularzation_activity.exe
+C:\code\homework\CWEB1112\modularzation\modularzation_activity\bin\HPD\Debug\netcoreapp3.0\modularzation_activity.deps.json
+C:\code\homework\CWEB1112\modularzation\modularzation_activity\bin\HPD\Debug\netcoreapp3.0\modularzation_activity.runtimeconfig.json
+C:\code\homework\CWEB1112\modularzation\modularzation_activity\bin\HPD\Debug\netcoreapp3.0\modularzation_activity.runtimeconfig.dev.json
+C:\code\homework\CWEB1112\modularzation\modularzation_activity\bin\HPD\Debug\netcoreapp3.0\modularzation_activity.dll
+C:\code\homework\CWEB1112\modularzation\modularzation_activity\bin\HPD\Debug\netcoreapp3.0\modularzation_activity.pdb
+C:\code\homework\CWEB1112\modularzation\modularzation_activity\obj\HPD\Debug\netcoreapp3.0\modularzation_activity.csprojAssemblyReference.cache
+C:\code\homework\CWEB1112\modularzation\modularzation_activity\obj\HPD\Debug\netcoreapp3.0\modularzation_activity.AssemblyInfoInputs.cache
+C:\code\homework\CWEB1112\modularzation\modularzation_activity\obj\HPD\Debug\netcoreapp3.0\modularzation_activity.AssemblyInfo.cs
+C:\code\homework\CWEB1112\modularzation\modularzation_activity\obj\HPD\Debug\netcoreapp3.0\modularzation_activity.dll
+C:\code\homework\CWEB1112\modularzation\modularzation_activity\obj\HPD\Debug\netcoreapp3.0\modularzation_activity.pdb
